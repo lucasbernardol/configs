@@ -1,35 +1,36 @@
 {
-	"name": "lucasbernardol",
-	"version": "1.0.0",
-	"description": "📦💾 Customizações e scripts pessoais.",
-	"main": "index.js",
-	"private": true,
-	"workspaces": {
-		"packages": [
-			"packages/*",
-			"apps/*"
-		]
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"postinstall": "husky install"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "MIT",
-	"homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
-	"bugs": {
-		"url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
-	},
-	"devDependencies": {
-		"@commitlint/cli": "^17.4.4",
-		"@commitlint/config-conventional": "^17.4.4",
-		"@types/prettier": "^2.7.2",
-		"husky": "^8.0.3",
-		"prettier": "^2.8.4"
-	}
+  "name": "lucasbernardol",
+  "version": "1.0.0",
+  "description": "📦💾 Customizações e scripts pessoais.",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "apps/*"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
+  "bugs": {
+    "url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4",
+    "@types/prettier": "^2.7.2",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.4",
+    "@lucasbernardol/prettier-config": "*"
+  }
 }
