@@ -3,13 +3,7 @@
   "version": "1.0.0",
   "description": "Prettier shareable config",
   "main": "index.js",
-  "scripts": {
-    "test": "vitest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
-  },
+  "license": "MIT",
   "keywords": [
     "config",
     "shareable",
@@ -24,12 +18,22 @@
     ".npmignore",
     "README.md"
   ],
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
+  },
   "author": "",
-  "license": "MIT",
   "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
   "bugs": {
     "url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
   },
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {},
   "devDependencies": {
     "vitest": "^0.28.5"
   }
