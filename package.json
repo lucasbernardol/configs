@@ -28,9 +28,10 @@
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
+    "@lucasbernardol/prettier-config": "*",
     "@types/prettier": "^2.7.2",
     "husky": "^8.0.3",
     "prettier": "^2.8.4",
-    "@lucasbernardol/prettier-config": "*"
+    "typescript": "^4.9.5"
   }
 }

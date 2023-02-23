@@ -23,5 +23,8 @@
 	"homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
 	"bugs": {
 		"url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
+	},
+	"devDependencies": {
+		"vitest": "^0.28.5"
 	}
 }
