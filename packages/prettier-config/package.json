@@ -4,6 +4,8 @@
   "description": "Prettier shareable config",
   "main": "index.js",
   "license": "MIT",
+  "author": "lucasbernardol <lucasbernardol.contact@gmail.com>",
+  "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
   "keywords": [
     "config",
     "shareable",
@@ -15,7 +17,6 @@
     "index.js",
     ".gitignore",
     ".prettierrc.json",
-    ".npmignore",
     "README.md"
   ],
   "engines": {
@@ -25,8 +26,6 @@
     "type": "git",
     "url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
   },
-  "author": "",
-  "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
   "bugs": {
     "url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
   },
