@@ -1,2 +1,5 @@
 __tests__
 node_modules/
+
+tsconfig.json
+vitest.config.ts

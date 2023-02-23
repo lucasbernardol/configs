@@ -10,6 +10,5 @@
   "arrowParens": "always",
   "useTabs": false,
   "quoteProps": "as-needed",
-  "overrides": [],
   "plugins": []
 }

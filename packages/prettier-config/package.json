@@ -1,30 +1,36 @@
 {
-	"name": "@lucasbernardol/prettier-config",
-	"version": "1.0.0",
-	"description": "Prettier shareable config",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
-	},
-	"keywords": [
-		"prettier",
-		"code formatter",
-		"formatter",
-		"config",
-		"share",
-		"shareable"
-	],
-	"author": "",
-	"license": "MIT",
-	"homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
-	"bugs": {
-		"url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
-	},
-	"devDependencies": {
-		"vitest": "^0.28.5"
-	}
+  "name": "@lucasbernardol/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier shareable config",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
+  },
+  "keywords": [
+    "config",
+    "shareable",
+    "share",
+    "prettier",
+    "formatter"
+  ],
+  "files": [
+    "index.js",
+    ".gitignore",
+    ".prettierrc.json",
+    ".npmignore",
+    "README.md"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
+  "bugs": {
+    "url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
+  },
+  "devDependencies": {
+    "vitest": "^0.28.5"
+  }
 }
