@@ -1,7 +1,7 @@
 {
-	"name": "prettier-config",
+	"name": "@lucasbernardol/prettier-config",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Prettier shareable config",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,14 @@
 		"type": "git",
 		"url": "git+https://github.com/lucasbernardol/lucasbernardol-configs.git"
 	},
-	"keywords": [],
+	"keywords": [
+		"prettier",
+		"code formatter",
+		"formatter",
+		"config",
+		"share",
+		"shareable"
+	],
 	"author": "",
 	"license": "MIT",
 	"homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
