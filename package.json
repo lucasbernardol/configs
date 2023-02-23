@@ -23,5 +23,9 @@
   "homepage": "https://github.com/lucasbernardol/lucasbernardol-configs#readme",
   "bugs": {
     "url": "https://github.com/lucasbernardol/lucasbernardol-configs/issues"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4"
   }
 }
