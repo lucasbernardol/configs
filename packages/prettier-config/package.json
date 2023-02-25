@@ -1,7 +1,7 @@
 {
   "name": "@lucasbernardol/prettier-config",
-  "version": "1.0.0",
-  "description": "Prettier shareable config",
+  "version": "1.0.1",
+  "description": "Shareable Prettier config @lucasbernardol",
   "main": "index.js",
   "license": "MIT",
   "author": "lucasbernardol <lucasbernardol.contact@gmail.com>",
