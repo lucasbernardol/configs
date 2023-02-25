@@ -7,7 +7,7 @@
     "start": "node ./src/index.js"
   },
   "devDependencies": {
-    "@lucasbernardol/prettier-config": "^1.0.0",
+    "@lucasbernardol/prettier-config": "^1.0.1",
     "prettier": "^2.8.4"
   }
 }
