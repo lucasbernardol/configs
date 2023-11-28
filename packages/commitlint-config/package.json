@@ -7,8 +7,10 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^18.4.3",
     "typescript": "^5.3.2",
     "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "^18.4.3"
   }
 }
