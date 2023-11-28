@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "📐✏️ Shareable configs.",
   "main": "index.js",
+  "private": true,
   "workspaces": {
     "packages": [
       "packages/*",
@@ -14,5 +15,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "@types/node": "^20.10.0",
+    "husky": "^8.0.3",
+    "typescript": "^5.3.2"
+  }
 }
